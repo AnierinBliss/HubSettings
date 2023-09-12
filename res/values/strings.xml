@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+
+<resources>
+
+    <string name="hubsettings_title">Hub Mode</string>
+    <string name="hubsettings_summary">Dock options</string>
+
+</resources>
